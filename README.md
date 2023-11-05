@@ -12,6 +12,8 @@ I clearly haven't written all of the code in these files. What I have written is
 
 **How can you tell my code from the others?**
 
-Well, mostly from the excessive comments I've put in above the code I've written. 
+Starting with week3, I've committed files in a way that shows the work I've done.
+
+For the weeks prior where I forgot to initialize a git repo, mostly from the excessive comments I've put in above the code belonging to me.
 
 If you care to know for certain, you can check the code distribution for each assigment and see what I wrote vs what was already given. 
