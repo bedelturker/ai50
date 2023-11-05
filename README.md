@@ -4,7 +4,7 @@ It reflects my efforts to complete all the assignments for the CS50's Introducti
 
 The link to course materials are here: https://cs50.harvard.edu/ai/2023/
 
-They might be copyrighted but _they are free as of November 5, 2023. _
+They might be copyrighted but _they are free as of November 5, 2023._
 
 **BIG DISCLAIMER**
 
